@@ -11,6 +11,10 @@ The dataset used is a small set of text reviews with binary sentiment labels.
 - pandas
 - numpy
 - scikit-learn
+- Python
+- scikit-learn (ML)
+- pandas (Data handling)
+- TfidfVectorizer (Text vectorization)
 
 ## How to Run
 
